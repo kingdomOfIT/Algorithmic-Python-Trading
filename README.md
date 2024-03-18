@@ -86,9 +86,7 @@ pip install pandas requests xlsxwriter
 
 **Running the Project**
 
-```bash
-python main.ipynb
-```
+Follow the steps inside the project and eneter the value of your portfolio
 
 <br />
 
