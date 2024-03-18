@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src="https://github.com/kingdomOfIT/Python-Social-Media/blob/main/static/CoverImage.png" alt="Project Banner">
+    <img src="https://github.com/kingdomOfIT/Algorithmic-Python-Trading/blob/main/static/CoverImage.png" alt="Project Banner">
   <br />
   <div>
     <img src="https://img.shields.io/badge/-jupyter-black?style=for-the-badge&logoColor=white&logo=jupyter&color=FFA500" alt="jupyter" />
